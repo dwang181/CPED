@@ -6,6 +6,6 @@
 
 
 <p align="center">
-<img src= "https://github.com/dwang181/CPED/blob/main/Figures/Modules.PNG" height="269">
+<img src= "https://github.com/dwang181/CPED/blob/main/Figures/Modules.PNG" height="500">
 <p>
 
